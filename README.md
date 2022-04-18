@@ -8,11 +8,12 @@ in file stackGenerator.py I have implemented the stack class you can work with
 It supports all the functions required
 - Tests are ready and you can run them with django tests
 
-Data store Library:
+Data store Library task:
 
 Data store support:
 - local
 - s3
+
 Format Support:
 - json
 - xml
